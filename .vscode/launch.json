@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SenacApplication<senac>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.api.senac.SenacApplication",
+            "projectName": "senac",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
